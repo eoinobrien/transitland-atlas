@@ -3,14 +3,14 @@
   "feeds": [
     {
       "spec": "gtfs",
-      "id": "f-gc7-dublinbus",
+      "id": "f-gc7-ireland-combined",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_dublinbus.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/google_transit_combined.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence"
       },
-      "feed_namespace_id": "o-gc7-dublinbus"
+      "feed_namespace_id": "o-gc7-ireland-combined"
     },
     {
       "spec": "gtfs",
